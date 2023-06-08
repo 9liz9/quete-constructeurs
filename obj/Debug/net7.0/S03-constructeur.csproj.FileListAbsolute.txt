@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/bin/Debug/net7.0/S03-constructeur
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/bin/Debug/net7.0/S03-constructeur.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/bin/Debug/net7.0/S03-constructeur.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/bin/Debug/net7.0/S03-constructeur.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/bin/Debug/net7.0/S03-constructeur.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/refint/S03-constructeur.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/S03-constructeur.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-constructeur/obj/Debug/net7.0/ref/S03-constructeur.dll
